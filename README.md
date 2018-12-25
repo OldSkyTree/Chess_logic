@@ -1,2 +1,2 @@
 # Chess_logic
-Chess game logic written on C++.
+Chess game logic written on Java.
